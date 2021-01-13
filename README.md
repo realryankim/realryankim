@@ -6,7 +6,8 @@
 
 #### 💭  &nbsp; Hello, I'm INFP-T
 #### 🙌  &nbsp; Day by day, in every way, I'm getting better and better
-#### 😌  &nbsp; interested in **Coffee, Jazz**
+#### 💻  &nbsp; Currently keep studying JS, React, TS
+#### 😌  &nbsp; Interested in **Coffee, Jazz**
 
 <p>
   <img height="120" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=realryankim&hide_title=true&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&theme=algolia">
