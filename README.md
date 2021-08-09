@@ -6,7 +6,7 @@
 
 #### 💭  &nbsp; Hello, I'm INFP-T
 #### 🙌  &nbsp; Day by day, in every way, I'm getting better and better
-#### 💻  &nbsp; Currently working on JS, React, TS
+#### 💻  &nbsp; Currently working on Flutter
 #### 😌  &nbsp; Interested in **Coffee, Jazz**
 
 <p>
